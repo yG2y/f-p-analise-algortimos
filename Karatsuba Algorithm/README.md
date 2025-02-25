@@ -82,6 +82,9 @@ python GraphGenerator.py
 
 ### Análise da Complexidade Ciclomática
 
+#### Grafo Karatsuba Figma
+![Grafo Karatsuba Figma](/Karatsuba%20Algorithm/imgs/Grafo%20Direcionado%20Algoritmo%20Karatsuba%20Figma.png)
+
 #### Grafo Karatsuba Figura
 ![Grafo Karatsuba](/Karatsuba%20Algorithm/imgs/FigureGraph.png)
 
