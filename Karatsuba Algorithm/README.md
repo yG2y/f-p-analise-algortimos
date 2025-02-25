@@ -62,8 +62,12 @@ Resultado: 7006652, Tempo: 0.000047 segundos
 ## Relatório Técnico
 
 ### Análise da Complexidade Ciclomática
-#### Grafo Karatsuba
-![Grafo Karatsuba](/Karatsuba%20Algorithm/imgs/Grafos%20Karatsuba.png)
+
+#### Grafo Karatsuba Figura
+![Grafo Karatsuba](/Karatsuba%20Algorithm/imgs/FigureGraph.png)
+
+#### Grafo Karatsuba por PDF
+![Grafo Karatsuba PDF](/Karatsuba%20Algorithm/imgs/Grafos%20Karatsuba.png)
 
 #### 1. Nós:
 * Verificação do caso base (```if x < 10 or y < 10```).
