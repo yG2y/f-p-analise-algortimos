@@ -28,35 +28,54 @@ Se os números têm 1 ou 2 dígitos, a multiplicação é feita diretamente.
 
 ## Como Executar o Projeto
 
-### 1. Pré-requisitos
+### 1. Pré-requisitos:
   Python 3.13.2 instalado.
 
-### 2. Passos para execução
+### 2. Passos para execução:
 
-#### Clone o repositório
+#### Clone o repositório:
 ```bash
 git clone https://github.com/yG2y/f-p-analise-algortimos.git
 cd '.\f-p-analise-algortimos\'
 cd '.\Karatsuba Algorithm\'
 ```
 
-#### Execute o Script
+#### Execute o Script:
 ```bash
 python main.py
 ```
 
-#### Insira os números
+#### Insira os números:
 * O programa solicitará dois números para multiplicação.
 * Exemplo: 
 ```bash
 1234
 5678
 ```
-#### Resultado Esperado
+#### Resultado Esperado:
 * O programa exibirá o resultado da multiplicação e o tempo de execução.
 * Exemplo: *(tempo pode variar considerando o Hardware)*
 ```bash
 Resultado: 7006652, Tempo: 0.000047 segundos 
+```
+## Como Executar o Grafo do Projeto
+
+### 1. Pré-requisitos:
+  Instalar a biblioteca Matplotlib.
+  ```bash
+    python -m pip install -U pip
+    python -m pip install -U matplotlib
+  ```
+
+### 2. Acesse o caminho do código:
+Considerando que está na raiz do proejto *f-p-analise-algortimos* utilize os comandos:
+```bash
+cd '.\Karatsuba Algorithm\'
+```
+
+#### Execute o Script:
+```bash
+python GraphGenerator.py
 ```
 
 ## Relatório Técnico
@@ -144,4 +163,4 @@ Resultado: 7006652, Tempo: 0.000123 segundos
 * [Algoritmo Karatsuba - Tutorials Point](https://www-tutorialspoint-com.translate.goog/data_structures_algorithms/karatsuba_algorithm.htm?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc)
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a [LICENÇA](../LICENSE) MIT.
