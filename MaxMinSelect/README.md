@@ -126,6 +126,10 @@ Fórmula: 3×5/2 - 2 = 5.5 ≈ 6
 3. Comparação com nativas:
 - Funções min()/max() do Python são mais otimizadas
 
+## Diagrama do Algoritmo
+
+![MaxMin Select Algorithm](assets/maxmin_select_algorithm.png)
+
 ## 6. REFERÊNCIAS
 * [Introduction to Divide and Conquer Algorithm](https://www.geeksforgeeks.org/introduction-to-divide-and-conquer-algorithm/)
 
